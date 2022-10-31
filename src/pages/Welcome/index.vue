@@ -1,7 +1,7 @@
 <template>
   <div className="welcome">
     <h1 className="title">Vite Vue</h1>
-    <span>This is a template for react + typescript.</span>
+    <span>This is a template for vue + typescript.</span>
     <div className="links">
       <p>
         <a href="https://cn.vuejs.org/">Vue</a> |
