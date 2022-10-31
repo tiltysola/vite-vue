@@ -1,0 +1,13 @@
+{
+  "plugins": ["simple-import-sort"],
+  "extends": ["eslint-config-ali/typescript/vue"],
+  "rules": {
+    "simple-import-sort/imports": [
+      "error",
+      {
+        "groups": [["^"], ["^@"], ["^@/pages", "^@/components"], ["^\\."], ["^\\u0000"]]
+      }
+    ],
+    "no-console": 0
+  }
+}
