@@ -3,7 +3,7 @@ import Layout from '@/components/Layout';
 </script>
 
 <template>
-  <Layout>
+  <layout>
     <router-view></router-view>
-  </Layout>
+  </layout>
 </template>
