@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router';
 
-import NotFound from '@/pages/NotFound.vue';
-import Welcome from '@/pages/Welcome.vue';
+import NotFound from '@/pages/NotFound';
+import Welcome from '@/pages/Welcome';
 
 const routes = [
   { path: '/', component: Welcome },

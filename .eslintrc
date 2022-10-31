@@ -5,7 +5,7 @@
     "simple-import-sort/imports": [
       "error",
       {
-        "groups": [["^"], ["^@"], ["^@/pages", "^@/components"], ["^\\."], ["^\\u0000"]]
+        "groups": [["^vue"], ["^"], ["^@"], ["^@/pages", "^@/components"], ["^\\."], ["^\\u0000"]]
       }
     ],
     "no-console": 0
